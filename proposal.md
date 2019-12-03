@@ -1,0 +1,2 @@
+airbnb for storage.
+People will be able to post ads to rent out space in their house to store other peoples items. The host can choose the price they want to charge. The user can choose the dates they want to store their stuff. users can leave reviews on the hosts.
